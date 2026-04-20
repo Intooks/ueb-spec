@@ -1,0 +1,30 @@
+title: Книга-пример
+creators:
+   - name: Сава
+     role: author
+     url: https://github.com/USBashka
+description:
+  Это книга-пример, показывающая, как устроен формат `.ueb`
+genres:
+  - tutorial
+world: initial
+tags:
+warnings:
+
+lang: ru
+version: 0.1.0
+dates:
+  started: 2026-04-20
+  edited: 2026-04-20
+  exported:
+  published:
+url: https://github.com/Intooks/ueb-spec
+
+series:
+original:
+
+mode: chat
+layout:
+
+ueb_version: 0.0.0
+min_ueb_version: 0.0.0
